@@ -6,7 +6,9 @@ Kmeans.py file stores function implementation of K-means.
 Silhouette_analysis.py is a program performing Kmeans clustering for multiple numbers of clusters.
 
 data.json is exemplary numerical data to test clustering.
+
+I have provided exemplary clustering and analysis results in form of plots.
 ## Usage
-Execute the script to perform K-means clustering and silhouette analysis.
+Execute the Silhouette_analysis to perform K-means clustering and silhouette analysis on data from file "data.json" (make sure such file exists).
 
 ``` python Silhouette_analysis.py ```
